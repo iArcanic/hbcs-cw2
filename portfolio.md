@@ -32,6 +32,8 @@ Our group had a perceptive discussion, which involved two key questions – whic
 
 ## 3.1 Member summary
 
+Our group argued whether machines surpassing clear certain criteria of intelligence makes them be defined as a computer or not – in the case that a machine does fully develop consciousness and realization, it could be a whole new species itself. Some members of the group proposed the idea that impressive cognitive abilities need to be backed by a real consciousness, which some computer systems lack. Replicating humanity with emotional intelligence within machines was also discussed, but this poses barriers, as some suggested that a computer system cannot fully capture and replicate qualities that are naturally intrinsic to humans. There was also an ethical discussion to be had, where machines that do have an active consciousness cannot be as easily controllable. The discussion also delved into whether AI required more processing power to reach higher levels of intelligence but concluded that it would not have any effect on a machine's thought process. Overall, we all agreed that further research needs to be conducted on whether machines are even cable adopting such qualities as emotions whilst still retaining the advantages that make it a machine in the first place.
+
 # 4 Appendices
 
 ## 4.1 Group leader email
